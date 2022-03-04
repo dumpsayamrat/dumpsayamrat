@@ -16,3 +16,5 @@
 - [ig](https://www.instagram.com/igotyourback.jack)
 - <sayamrat.kt@gmail.com>
 
+### Codewars
+![dumpsayamrat.com](https://www.codewars.com/users/dumpsayamrat/badges/large)
