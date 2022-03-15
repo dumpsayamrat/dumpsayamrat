@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Sayamrat
 - ⛄ I'm a developer, developer and developer
 - 👀 I’m interested in contributing open source projects and I'm very new to this. Please bear with me.
-- 🌱 I’m currently learning Scala 
+- 🌱 I’m currently learning Scala, Maybe Rust
 - 🌱 I’m currently building my own personal website. Feel free to have a look [dumpsayamrat.com](https://dumpsayamrat.com)
 
 ### Latest blog posts
