@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Sayamrat
-a dynamic and quick-learning software engineer based in Bangkok, Thailand. With over 6 years of experience in software development, I have a deep passion for crafting high-quality code that delivers top-notch performance.
+A dynamic and quick-learning software engineer based in Bangkok, Thailand. With over 6 years of experience in software development, I have a deep passion for crafting high-quality code that delivers top-notch performance.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
