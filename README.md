@@ -6,8 +6,8 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [พื้นฐานก่อนศึกษา Recompose สำหรับ React](https://dumpsayamrat.com/recompose-react/)
-- [Talad Noi with Fujifilm Tiara](https://dumpsayamrat.com/talad-noi/)
+- [พื้นฐานก่อนศึกษา Recompose สำหรับ React](https://dumpsayamrat.com/blog/recompose-react)
+- [Talad Noi with Fujifilm Tiara](https://dumpsayamrat.com/blog/talad-noi)
 <!-- BLOG-POST-LIST:END -->
 
 ### How to reach me 
